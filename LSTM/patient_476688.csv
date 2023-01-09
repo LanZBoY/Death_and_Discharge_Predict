@@ -1,0 +1,114 @@
+,Day 01,Day 02
+gender,0,0
+DNR,0,0
+age,50,50
+height,182.9,182.9
+weight,77.0,77.0
+RSBI,33.075,33.075
+troponin - I,7.351,7.351
+lactate,4.187,4.187
+fibrinogen,299.828,299.828
+CPK-MB INDEX,3.868,3.868
+CPK,69.0,69.0
+CPK-MB,1.2,1.2
+HDL,23.0,23.0
+LDL,102.0,102.0
+total cholesterol,147.0,147.0
+triglycerides,111.0,111.0
+PTT,37.7,37.7
+PTT ratio,1.193,1.193
+TSH,2.569,2.569
+ammonia,65.082,65.082
+amylase,106.543,106.543
+lipase,160.144,160.144
+T4,7.306,7.306
+Vitamin B12,695.056,695.056
+Fe,47.693,47.693
+TIBC,208.319,208.319
+ionized calcium,4.113,4.113
+Ferritin,763.953,763.953
+cortisol,27.998,27.998
+free T4,1.067,1.067
+T3,71.79,71.79
+uric acid,6.232,6.232
+serum osmolality,303.692,303.692
+BNP,1661.464,1661.464
+troponin - T,0.868,0.868
+CRP,46.6,46.6
+Fe/TIBC Ratio,22.953,22.953
+LDH,531.427,531.427
+transferrin,148.824,148.824
+prealbumin,13.956,13.956
+MI,0,0
+CHF,0,0
+PVD,0,0
+CVD,0,0
+Dementia,0,0
+CPD,0,0
+RD,0,0
+PUD,0,0
+MLD,0,0
+DM_acute,0,0
+DM_Chronic,0,0
+Hemiplegia,0,0
+Renal,0,0
+Malignancy,0,0
+LD,0,0
+MST,0,0
+AIDS,0,0
+Aspergillus,0,0
+Candida,0,0
+GNB,0,0
+GPC,0,0
+Vasopressor,0,0
+Relaxant,0,0
+Sedation,1,0
+PPI,0,0
+Pain control,1,0
+intaketotal,2308.6,2308.6
+outputtotal,2070.0,1300.0
+nettotal,238.6,-1300.0
+Compliance,41.0,41.0
+PC mode,13.955,13.955
+Peak airway pressure,15.0,15.0
+Plateau,12.0,12.0
+Pressure support,7.287,7.287
+Resistance,9.775,9.775
+FiO2,40.0,40.0
+Minute ventilation,6.34,6.34
+Mean airway pressure,8.5,8.5
+PEEP,5.0,5.0
+Respiratory rate,20.0,20.0
+tidal volume,317.0,317.0
+ROXindex,0.031,0.031
+sao2,24.75,24.75
+respiration,12.0,12.0
+heartrate,76.75,76.75
+systemicsystolic,17.326,17.326
+systemicdiastolic,9.459,9.459
+systemicmean,12.1,12.1
+platelets x 1000,371.0,350.0
+WBC x 1000,12.4,12.2
+Hgb,11.7,11.2
+chloride,105.0,101.0
+glucose,126.0,103.0
+potassium,4.0,3.9
+calcium,8.3,8.2
+BUN,18.0,12.0
+creatinine,1.0,0.9
+sodium,140.0,136.0
+bedside glucose,127.0,127.0
+AST (SGOT),66.0,56.0
+magnesium,2.4,2.4
+bicarbonate,26.0,26.0
+total bilirubin,0.7,0.7
+alkaline phos.,369.0,359.0
+paCO2,36.6,36.6
+paO2,401.8,401.8
+HCO3,24.0,24.0
+ALT (SGPT),97.0,83.0
+albumin,2.9,2.8
+pH,7.482,7.482
+total protein,6.7,6.7
+phosphate,4.133,4.133
+PT - INR,1.0,1.0

@@ -1,0 +1,114 @@
+,Day 01
+gender,1
+DNR,0
+age,58
+height,165.1
+weight,74.8
+RSBI,42.168
+troponin - I,0.21
+lactate,4.286
+fibrinogen,303.415
+CPK-MB INDEX,3.918
+CPK,1585.581
+CPK-MB,28.416
+HDL,42.487
+LDL,89.342
+total cholesterol,162.871
+triglycerides,181.169
+PTT,43.61
+PTT ratio,1.309
+TSH,3.387
+ammonia,57.058
+amylase,97.112
+lipase,38.0
+T4,6.385
+Vitamin B12,771.723
+Fe,42.368
+TIBC,213.835
+ionized calcium,4.2
+Ferritin,644.45
+cortisol,29.817
+free T4,1.028
+T3,67.618
+uric acid,6.069
+serum osmolality,304.469
+BNP,1567.772
+troponin - T,0.61
+CRP,14.824
+Fe/TIBC Ratio,20.024
+LDH,476.3
+transferrin,148.253
+prealbumin,5.0
+MI,0
+CHF,0
+PVD,0
+CVD,0
+Dementia,0
+CPD,0
+RD,0
+PUD,0
+MLD,0
+DM_acute,0
+DM_Chronic,0
+Hemiplegia,0
+Renal,0
+Malignancy,0
+LD,0
+MST,0
+AIDS,0
+Aspergillus,0
+Candida,0
+GNB,0
+GPC,0
+Vasopressor,1
+Relaxant,0
+Sedation,0
+PPI,0
+Pain control,0
+intaketotal,8744.0
+outputtotal,907.59
+nettotal,8744.0
+Compliance,31.85
+PC mode,13.25
+Peak airway pressure,20.531
+Plateau,17.873
+Pressure support,7.529
+Resistance,14.733
+FiO2,80.0
+Minute ventilation,2.247
+Mean airway pressure,9.674
+PEEP,5.0
+Respiratory rate,7.0
+tidal volume,321.0
+ROXindex,0.069
+sao2,38.361
+respiration,7.916
+heartrate,22.666
+systemicsystolic,8.749
+systemicdiastolic,7.249
+systemicmean,7.333
+platelets x 1000,130.0
+WBC x 1000,22.56
+Hgb,9.0
+chloride,112.0
+glucose,549.0
+potassium,5.9
+calcium,7.7
+BUN,9.0
+creatinine,1.43
+sodium,149.0
+bedside glucose,334.0
+AST (SGOT),472.0
+magnesium,2.7
+bicarbonate,18.0
+total bilirubin,0.3
+alkaline phos.,81.0
+paCO2,66.9
+paO2,318.4
+HCO3,17.0
+ALT (SGPT),283.0
+albumin,1.6
+pH,7.023
+total protein,4.2
+phosphate,12.2
+PT - INR,1.405

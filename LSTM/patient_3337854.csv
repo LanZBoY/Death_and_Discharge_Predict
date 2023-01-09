@@ -1,0 +1,114 @@
+,Day 01,Day 02,Day 03
+gender,0,0,0
+DNR,0,0,0
+age,43,43,43
+height,180.3,180.3,180.3
+weight,87.9,87.9,87.9
+RSBI,33.075,33.075,33.075
+troponin - I,7.351,7.351,7.351
+lactate,4.187,4.187,4.187
+fibrinogen,339.0,339.0,339.0
+CPK-MB INDEX,3.868,3.868,3.868
+CPK,2110.794,2110.794,2110.794
+CPK-MB,42.074,42.074,42.074
+HDL,37.0,37.0,37.0
+LDL,194.0,194.0,194.0
+total cholesterol,247.0,247.0,247.0
+triglycerides,115.0,115.0,115.0
+PTT,23.0,23.0,23.0
+PTT ratio,1.193,1.193,1.193
+TSH,2.569,2.569,2.569
+ammonia,65.082,65.082,65.082
+amylase,106.543,106.543,106.543
+lipase,160.144,160.144,160.144
+T4,7.306,7.306,7.306
+Vitamin B12,695.056,695.056,695.056
+Fe,47.693,47.693,47.693
+TIBC,208.319,208.319,208.319
+ionized calcium,4.113,4.113,4.113
+Ferritin,763.953,763.953,763.953
+cortisol,27.998,27.998,27.998
+free T4,1.067,1.067,1.067
+T3,71.79,71.79,71.79
+uric acid,6.232,6.232,6.232
+serum osmolality,303.692,303.692,303.692
+BNP,1661.464,1661.464,1661.464
+troponin - T,0.868,0.868,0.868
+CRP,15.004,15.004,15.004
+Fe/TIBC Ratio,22.953,22.953,22.953
+LDH,531.427,531.427,531.427
+transferrin,148.824,148.824,148.824
+prealbumin,13.956,13.956,13.956
+MI,0,0,0
+CHF,0,0,0
+PVD,0,0,0
+CVD,0,0,1
+Dementia,0,0,0
+CPD,0,0,0
+RD,0,0,0
+PUD,0,0,0
+MLD,0,0,0
+DM_acute,0,0,0
+DM_Chronic,0,0,0
+Hemiplegia,0,0,0
+Renal,0,0,0
+Malignancy,0,0,0
+LD,0,0,0
+MST,0,0,0
+AIDS,0,0,0
+Aspergillus,0,0,0
+Candida,0,0,0
+GNB,0,0,0
+GPC,0,0,0
+Vasopressor,0,0,0
+Relaxant,0,0,0
+Sedation,0,0,1
+PPI,0,0,0
+Pain control,0,0,0
+intaketotal,874.24,874.24,969.82
+outputtotal,1020.231,1020.231,850.0
+nettotal,-145.991,-145.991,119.82
+Compliance,38.873,38.873,38.873
+PC mode,13.955,13.955,13.955
+Peak airway pressure,19.698,19.698,21.0
+Plateau,16.751,16.751,16.751
+Pressure support,7.287,7.287,7.287
+Resistance,9.775,9.775,9.775
+FiO2,48.213,48.213,60.0
+Minute ventilation,5.437,5.437,9.136
+Mean airway pressure,9.525,9.525,9.0
+PEEP,5.175,5.175,5.0
+Respiratory rate,14.325,14.325,16.0
+tidal volume,391.73,391.73,571.0
+ROXindex,0.054,0.054,0.016
+sao2,37.17,37.17,15.832
+respiration,6.172,6.172,6.172
+heartrate,35.173,35.173,4.249
+systemicsystolic,17.326,17.326,17.326
+systemicdiastolic,9.459,9.459,9.459
+systemicmean,12.1,12.1,12.1
+platelets x 1000,234.0,253.0,253.0
+WBC x 1000,5.4,13.9,13.9
+Hgb,14.8,14.2,14.2
+chloride,104.0,104.0,104.0
+glucose,146.0,121.0,121.0
+potassium,3.8,4.0,4.0
+calcium,9.0,9.1,9.1
+BUN,9.0,11.0,11.0
+creatinine,1.15,0.93,0.93
+sodium,138.0,140.0,140.0
+bedside glucose,180.633,122.0,122.0
+AST (SGOT),157.436,22.0,22.0
+magnesium,2.088,2.088,2.088
+bicarbonate,28.0,28.0,28.0
+total bilirubin,1.488,0.6,0.6
+alkaline phos.,105.077,64.0,64.0
+paCO2,49.604,49.604,28.2
+paO2,218.912,218.912,278.0
+HCO3,23.728,23.728,24.7
+ALT (SGPT),107.151,47.0,47.0
+albumin,3.375,4.2,4.2
+pH,7.36,7.36,7.551
+total protein,6.739,6.8,6.8
+phosphate,4.133,4.133,4.133
+PT - INR,1.03,1.03,1.11
